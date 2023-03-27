@@ -16,9 +16,9 @@
 
 #### Instructions - Scraping popular songs
 
-Your product will take a song as an input from the user and will output another song (the recommendation). In most cases, the recommended song will have to be similar to the inputted song, but the CTO thinks that if the song is on the top charts at the moment, the user will enjoy more a recommendation of a song that's also popular at the moment.
+Your product will take a song as an input from the user and will output another song (the recommendation). In most cases, the recommended song will have to be similar to the inputted song, but the CTO thinks that if the song is on the top charts at the moment, the user will also enjoy a recommendation of a song that's also popular at the moment.
 
-You have find data on the internet about currently popular songs. Popvortex maintains a weekly Top 100 of "hot" songs here: [http://www.popvortex.com/music/charts/top-100-songs.php](http://www.popvortex.com/music/charts/top-100-songs.php).
+You have to find data on the internet about currently popular songs. Popvortex maintains a weekly Top 100 of "hot" songs here: [http://www.popvortex.com/music/charts/top-100-songs.php](http://www.popvortex.com/music/charts/top-100-songs.php).
 
 It's a good place to start! Scrape the current top 100 songs and their respective artists, and put the information into a pandas dataframe.
 
