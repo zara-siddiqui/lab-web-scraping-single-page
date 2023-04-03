@@ -12,7 +12,7 @@
   - their strategy, and
   - how your project fits into this context.
 
-  Re-read the business case and the e-mail from the CTO, take a look at the flowchart.
+  Re-read the business case and the e-mail from the CTO.
 
 #### Instructions - Scraping popular songs
 
